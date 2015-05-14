@@ -19,7 +19,12 @@ int main() {
 		s=s+i;
 	}
 	cout<<s;
+
 	cout << s+200;
 	cout << "Wednesday";
+
+	//to be merged
+	cout << "merge this!";
+
 	return 0;
 }

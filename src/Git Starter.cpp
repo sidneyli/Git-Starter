@@ -20,5 +20,6 @@ int main() {
 	}
 	cout<<s;
 	cout << s+200;
+	cout << "Wednesday";
 	return 0;
 }

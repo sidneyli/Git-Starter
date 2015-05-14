@@ -11,6 +11,13 @@ using namespace std;
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
-	cout << sin(60);
+	cout << sin(60) << endl;
+	cout << "as you know"<<endl;
+	// now make some new features
+	int s=0;
+	for (int i=1;i<101;i++){
+		s=s+i;
+	}
+	cout<<s;
 	return 0;
 }

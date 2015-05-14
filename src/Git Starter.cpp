@@ -19,5 +19,7 @@ int main() {
 		s=s+i;
 	}
 	cout<<s;
+	//to be merged
+	cout << "merge this!";
 	return 0;
 }

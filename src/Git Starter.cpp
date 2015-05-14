@@ -19,5 +19,6 @@ int main() {
 		s=s+i;
 	}
 	cout<<s;
+	cout << s+200;
 	return 0;
 }
